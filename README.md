@@ -1,10 +1,5 @@
-# UNIVERSE
+# Universe
 The students were assigned to create a website that explain about the universe and two planets. 
-
-## Notes
-Group project consists of two students. 
-* Nur Fariza Binti Baharuddin
-* Puveemalar A/P Parameswaran
 
 ## Modules
 * Universe
@@ -31,3 +26,8 @@ Group project consists of two students.
    <img src="https://github.com/nfariza/UNIVERSE/blob/master/universe/screenshots/6.png" width="400" height="auto">
    &nbsp  &nbsp  &nbsp  &nbsp
 </p>
+
+## Contributor 
+Group project consists of two students. 
+* Nur Fariza Binti Baharuddin
+* Puveemalar A/P Parameswaran
