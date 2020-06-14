@@ -1,6 +1,10 @@
 # UNIVERSE
-
 The students were assigned to create a website that explain about the universe and two planets. 
+
+## Notes
+Group project consists of two students. 
+By : Nur Fariza Binti Baharuddin
+Puveemalar A/P Parameswaran
 
 ## Modules
 * Universe
